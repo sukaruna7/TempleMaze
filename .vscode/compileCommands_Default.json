@@ -1,0 +1,122 @@
+[
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMaze.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMaze.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMaze.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMazeCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMazeCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMazeGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMazeGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMazePlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMazePlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMazeProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\Source\\TempleMaze\\TempleMazeProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\suvea\\Documents\\Unreal Projects\\TempleMaze\\TempleMaze\\.vscode\\compileCommands_Default\\TempleMaze.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
