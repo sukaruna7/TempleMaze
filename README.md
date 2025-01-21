@@ -5,7 +5,6 @@
 TempleMaze is a first-person game where you navigate through the temple and find the golden statue. 
 
 ## Learning Objectives
-- Blueprint basics (nodes, pins, visual scripting)
 -  Pointers & references
 -  Actor & scene components
 -  Including header files
